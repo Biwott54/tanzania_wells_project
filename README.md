@@ -18,7 +18,6 @@ The dataset used in this project is a collection of water well data from Tanzani
 - longitude - GPS coordinate
 - latitude - GPS coordinate
 - wpt_name - Name of the waterpoint if there is one
-- num_private -
 - basin - Geographic water basin
 - subvillage - Geographic location
 - region - Geographic location
