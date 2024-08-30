@@ -1,5 +1,6 @@
 # TANZANIAN WATER WELLS PROJECT
 
+C:\Users\zenah\Desktop\PROJECTS\tanzania_wells_project\image .png
 ## Introduction
 This project aims to develop a predictive model that can accurately predict the functionality of water wells in Tanzania for each record in the dataset. The model will be used to guide resource allocation and improve access to clean water in Tanzanian communities.
 
