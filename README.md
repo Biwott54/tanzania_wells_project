@@ -1,6 +1,8 @@
 # TANZANIAN WATER WELLS PROJECT
 
-C:\Users\zenah\Desktop\PROJECTS\tanzania_wells_project\image .png
+![image](https://github.com/user-attachments/assets/4b5fbbe5-73a9-4bf1-b5ad-a25c88292882)
+
+
 ## Introduction
 This project aims to develop a predictive model that can accurately predict the functionality of water wells in Tanzania for each record in the dataset. The model will be used to guide resource allocation and improve access to clean water in Tanzanian communities.
 
@@ -16,7 +18,6 @@ The dataset used in this project is a collection of water well data from Tanzani
 - longitude - GPS coordinate
 - latitude - GPS coordinate
 - wpt_name - Name of the waterpoint if there is one
-- num_private -
 - basin - Geographic water basin
 - subvillage - Geographic location
 - region - Geographic location
@@ -79,9 +80,9 @@ The code includes the following steps:
 ## Findings
 The results of the models are as follows:
 
-    K-Nearest Neighbors: The model has an accuracy of 68%.
-    Logistic Regression: The model has an accuracy of 68%.
-    Decision Tree: The model has an accuracy of 70%.
+- K-Nearest Neighbors: The model has an accuracy of 68%.
+- Logistic Regression: The model has an accuracy of 68%.
+- Decision Tree: The model has an accuracy of 70%.
 
 ## Future research
 - Feature engineering: Consider adding additional features that could be relevant to the problem.
